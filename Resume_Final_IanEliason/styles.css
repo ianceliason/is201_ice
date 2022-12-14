@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+}
+
+li {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a {
+    color: maroon;
+}
+
+.bold {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.home {
+    background-image: url(port-anchorage-alaska-1334x1001.webp);
+    background-position: top right;
+    background-size: 1500px;
+
+}
